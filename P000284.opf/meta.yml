@@ -1,0 +1,21 @@
+id: P000284
+initial_creation_type: ocr
+source_metadata:
+  id: bdr:W1GS61414
+  title: གཞི་ལམ་འབྲས་གསུམ་ལས་བརྩམས་པའི་དྲིས་ལན་ཡིད་ཀྱི་མུན་སེལ
+  author: ''
+  volumes:
+    eed0287055bf473f96eb3c3b529663cf:
+      image_group_id: I1GS61416
+      title: Volume 1 of gzhi lam 'bras gsum las brtsams pa'i dris lan yid kyi mun
+        sel
+      volume_number: 1
+      total_pages: 150
+      base_file: v001.txt
+ebook_metadata:
+  title: གཞི་ལམ་འབྲས་གསུམ་ལས་བརྩམས་པའི་དྲིས་ལན་ཡིད་ཀྱི་མུན་སེལ
+  author: ''
+  sku: P000284
+  cover: cover.jpg
+  layers:
+  - pagination
