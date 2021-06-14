@@ -148,7 +148,7 @@ jobs:
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./${{ github.event.repository.name }}_plain.zip
-        asset_name: shyi_lam_dré_sum_la_sa_tsampa_i_drilen_yi_kyi_münsel_plain_P00028.zip
+        asset_name: shyi_lam_dré_sum_la_sa_plain_P00028.zip
         asset_content_type: text/zip
     - name: upload pages assets
       uses: actions/upload-release-asset@v1
@@ -157,5 +157,5 @@ jobs:
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./${{ github.event.repository.name }}_pages.zip
-        asset_name: shyi_lam_dré_sum_la_sa_tsampa_i_drilen_yi_kyi_münsel_pages_P00028.zip
+        asset_name: shyi_lam_dré_sum_la_sa_pages_P000284.zip
         asset_content_type: text/zip
